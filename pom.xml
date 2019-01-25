@@ -34,7 +34,7 @@
                     <!-- MainClass in mainfest make a executable jar -->
                     <archive>
                         <manifest>
-                            <mainClass>reverseProxy.RPServer</mainClass>
+                            <mainClass>com.example.netty.reverseproxy.ReverseProxy</mainClass>
                         </manifest>
                     </archive>
 
